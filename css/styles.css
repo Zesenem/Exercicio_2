@@ -3,16 +3,14 @@
 * {
   margin: 0;
   padding: 0;
-
   font-family: "Inconsolata", monospace;
-
   box-sizing: border-box;
   border: none;
 }
 
 body {
   background-color: lightgray;
-  padding: 2px;
+  padding: 10px;
 }
 
 /* Links */
@@ -39,16 +37,12 @@ a.active {
 
 main {
   width: 80%;
-
   min-width: 800px;
   max-width: 1240px;
-
   margin: 50px auto;
   padding: 2em;
-
   border: 5px double darkslategray;
   border-radius: 12px;
-
   background-color: white;
 }
 
